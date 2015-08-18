@@ -7,6 +7,9 @@
 ###強烈建議使用校外VPS來寫作業，省時省力
 [[教學] Digital Ocean + PayPal 懶人包 ( 使用郵局VISA金融卡 )](https://tnlin.wordpress.com/2015/05/23/%E6%95%99%E5%AD%B8-digital-ocean-%E6%87%B6%E4%BA%BA%E5%8C%85/)
 
+* SA-HW
+* * SA-HW
+
 * NA-HW1-Python Programing(TPP)
 * NA-HW2-Firewall
 * [NA-HW3-DNS](https://tnlin.wordpress.com/2015/05/26/na-dns-server-with-bind910/)
