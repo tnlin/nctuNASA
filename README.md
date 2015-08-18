@@ -1,7 +1,7 @@
 # nctuNASA
 * 計算機系統管理 System Administration = SA
 * 計算機網路管理 Network Administration = NA
-* 
+
 ###強烈建議使用校外VPS來寫作業，省時省力
 [[教學] Digital Ocean + PayPal 懶人包 ( 使用郵局VISA金融卡 )](https://tnlin.wordpress.com/2015/05/23/%E6%95%99%E5%AD%B8-digital-ocean-%E6%87%B6%E4%BA%BA%E5%8C%85/)
 
@@ -12,6 +12,7 @@
 * SA-HW4-FAMP
 * SA-HW5-NIS/NFS(Micro Computer Center)
 * SA-HW6-LDAP
+
 ##[2015-NA-Hackpad筆記](https://hackpad.com/2015-NA-r1LuluBmtr8)
 * [NA-HW1-Python Programing(TPP)](https://github.com/tnlin/nctuNASA/tree/master/NA-HW1-Twitch_Play_Pokemon)
 * NA-HW2-Firewall
