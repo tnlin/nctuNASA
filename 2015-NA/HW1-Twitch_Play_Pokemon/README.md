@@ -7,4 +7,5 @@
 
 ##啟動主程式
 > python main.py
+
 記得要改main.py的 broadcaster 和 key
