@@ -8,10 +8,10 @@
 [教學] Digital Ocean + PayPal 懶人包 ( 使用郵局VISA金融卡 )
 https://tnlin.wordpress.com/2015/05/23/%E6%95%99%E5%AD%B8-digital-ocean-%E6%87%B6%E4%BA%BA%E5%8C%85/
 
-###NA-HW1-Python Programing(TPP)
-###NA-HW2-Firewall
-###NA-HW3-DNS
+* NA-HW1-Python Programing(TPP)
+* NA-HW2-Firewall
+* NA-HW3-DNS
 https://tnlin.wordpress.com/2015/05/26/na-dns-server-with-bind910/
-###NA-HW4-Mail Server
-###NA-HW5-Network Management
+* NA-HW4-Mail Server
+* NA-HW5-Network Management
 https://tnlin.wordpress.com/2015/07/04/na-%E4%BD%BF%E7%94%A8snmp-rrdtool-cacti-%E7%9B%A3%E6%8E%A7%E7%B6%B2%E7%AB%99-on-freebsd-10-1/
