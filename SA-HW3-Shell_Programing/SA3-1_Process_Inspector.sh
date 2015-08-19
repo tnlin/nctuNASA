@@ -1,0 +1,1 @@
+ps aux|awk '{print($1" "$8" "$2)}'|tail -n+2|sort -k 1,1 -k 2,2 -k 3,3n|awk 'BEGIN{printf"_ _ "}{printf($1" "$2" "$3"\n"$1" "$2" ")}'|awk '($1!=$3||$2!=$4){printf")"}$1!=$3&&NF>2{printf"\n"$3" "}($1!=$3||$2!=$4)&&NF>2{printf"\n\t"$4" ( "}{printf$5" "}END{print""}'|tail -n+2
