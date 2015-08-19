@@ -9,7 +9,7 @@ This repo contain the information of two course in NCTU
 ##2014-SA
 * [Hackpad共筆](https://hackpad.com/2014-SA-OSVYgtAZXfD)
 * SA-HW1-Basic Installation
-* SA-HW2-File Server System
+* SA-HW2-Samba+FTP+ZFS
 * [SA-HW3-Shell Script Programming](https://github.com/tnlin/nctuNASA/tree/master/SA-HW3-Shell_Programing)
 * SA-HW4-FAMP
 * SA-HW5-NIS/NFS
