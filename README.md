@@ -1,4 +1,5 @@
 # nctuNASA
+This repo contain the information of two course in NCTU
 * 計算機系統管理 System Administration = SA
 * 計算機網路管理 Network Administration = NA
 
@@ -8,9 +9,9 @@
 ##[2014-SA-Hackpad筆記](https://hackpad.com/2014-SA-OSVYgtAZXfD)
 * SA-HW1-Basic Installation
 * SA-HW2-File Server System
-* SA-HW3-Shell Script Programming
+* [SA-HW3-Shell Script Programming](https://github.com/tnlin/nctuNASA/tree/master/SA-HW3-Shell_Programing)
 * SA-HW4-FAMP
-* SA-HW5-NIS/NFS(Micro Computer Center)
+* SA-HW5-NIS/NFS
 * SA-HW6-LDAP
 
 ##[2015-NA-Hackpad筆記](https://hackpad.com/2015-NA-r1LuluBmtr8)
