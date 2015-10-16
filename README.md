@@ -19,6 +19,7 @@ This repo contain the information of two course in NCTU
 * [Hackpad共筆](https://hackpad.com/2015-NA-r1LuluBmtr8)
 * [NA-HW1-Python Programing(TPP)](https://github.com/tnlin/nctuNASA/tree/master/NA-HW1-Twitch_Play_Pokemon)
 * NA-HW2-Firewall
+ * NA-HW2的簡單登入界面(capitive portal)，用sinatra跟iptables寫的小script，理論上還要加上dnsmasq才是完整功能。 [simple-capitive-portal](https://github.com/joshua5201/simple-captive-portal)
 * [NA-HW3-DNS](https://tnlin.wordpress.com/2015/05/26/na-dns-server-with-bind910/)
 * NA-HW4-Mail Server
 * [NA-HW5-Network Management](https://tnlin.wordpress.com/2015/07/04/na-%E4%BD%BF%E7%94%A8snmp-rrdtool-cacti-%E7%9B%A3%E6%8E%A7%E7%B6%B2%E7%AB%99-on-freebsd-10-1/)
