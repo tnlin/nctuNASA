@@ -14,6 +14,7 @@ This repo contain the information of two course in NCTU
 * [SA-HW4-FAMP](https://github.com/tnlin/nctuNASA/tree/master/SA-HW4-CRUD)
 * SA-HW5-NIS/NFS
 * SA-HW6-LDAP
+* NA-HW4的簡單登入界面(capitive portal)，用sinatra跟iptables寫的小script，理論上還要加上dnsmasq才是完整功能。 [simple-capitive-portal](https://github.com/joshua5201/simple-captive-portal)
 
 ##2015-NA
 * [Hackpad共筆](https://hackpad.com/2015-NA-r1LuluBmtr8)
