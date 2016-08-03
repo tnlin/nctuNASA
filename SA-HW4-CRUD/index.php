@@ -23,10 +23,10 @@
                            $q->execute();
                            foreach ($q as $row) {
                             echo '<tr>';
-                            echo '<td>'. $row['id'] . '</td>';
-                            echo '<td>'. $row['name'] . '</td>';
-                            echo '<td>'. $row['email'] . '</td>';
-                            echo '<td>'. $row['mobile'] . '</td>';
+                            echo '<td>'. htmlspecialchars($row['id'],ENT_QUOTES, 'UTF-8') . '</td>';
+                            echo '<td>'. htmlspecialchars($row['name'],ENT_QUOTES, 'UTF-8') . '</td>';
+                            echo '<td>'. htmlspecialchars($row['email'],ENT_QUOTES, 'UTF-8') . '</td>';
+                            echo '<td>'. htmlspecialchars($row['mobile'],ENT_QUOTES, 'UTF-8') . '</td>';
                             echo '<td>';
                             echo '<a class="btn btn-default"  href="read.php?id=' .$row['id']. '">Read</a> ';
                             echo '<a class="btn btn-success" href="update.php?id='.$row['id']. '">Update</a> ';
